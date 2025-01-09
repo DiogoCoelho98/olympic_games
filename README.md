@@ -33,3 +33,13 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/DiogoCoelho98/olympic_games.git
 cd olympic_games
+```
+
+## Contacts
+- **[LinkedIn](https://www.linkedin.com/in/diogo-borges-coelho/)**
+- **Email: diogocoelho19988@gmail.com**
+
+## Future Improvements
+- Implement a dynamic version of the site for easier content updates.
+- Add interactive features like an Olympic Games timeline or athlete profiles.
+- Explore the addition of a search feature to help users find specific events.
