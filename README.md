@@ -36,8 +36,8 @@ cd olympic_games
 ```
 
 ## Contacts
-- **[LinkedIn](https://www.linkedin.com/in/diogo-borges-coelho/)**
-- **Email: diogocoelho19988@gmail.com**
+- **https://www.linkedin.com/in/diogo-borges-coelho/**
+- **diogocoelho19988@gmail.com**
 
 ## Future Improvements
 - Implement a dynamic version of the site for easier content updates.
